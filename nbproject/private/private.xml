@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Studying/PRJ/WebDemo/web/login.html</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/servlet/CreateAccountServlet.java</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/registration/RegistrationCreateErrors.java</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/order/OrderDAO.java</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/web/viewCart.jsp</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/util/DBHelper.java</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/registration/RegistrationDAO.java</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/servlet/CheckOutServlet.java</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/util/RandomStringUtil.java</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/web/bookStore.html</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/web/search.html</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/servlet/LogOutServlet.java</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/web/bookStore.jsp</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/web/errors.html</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/servlet/SearchLastNameServlet.java</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/web/createAccount.jsp</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/servlet/UpdateAccountServlet.java</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/web/search.jsp</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/servlet/StartUpServlet.java</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/servlet/LoginServlet.java</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/truongnt/cart/CartObject.java</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/nbproject/build-impl.xml</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/web/index.html</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/web/invalid.html</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/util/MyApplicationConstants.java</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/web/createAccount.html</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/product/ProductDAO.java</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/registration/RegistrationDTO.java</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/web/META-INF/context.xml</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/servlet/AddItemToCartServlet.java</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/servlet/RemoveItemsFromCartServlet.java</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/servlet/DispatchServlet.java</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/orderDetail/OrderDetailDTO.java</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/web/WEB-INF/siteMaps.properties</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/truongnt/MyContextServletListener.java</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/web/WEB-INF/web.xml</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/orderDetail/OrderDetailDAO.java</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/servlet/BookStoreServlet.java</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/product/ProductDTO.java</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/order/OrderDTO.java</file>
+            <file>file:/D:/Studying/PRJ/WebDemo/src/java/servlet/DeleteAccountServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
